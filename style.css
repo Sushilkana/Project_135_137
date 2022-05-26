@@ -1,0 +1,39 @@
+h1{
+	width: 90%;
+	font-family: 'Koulen', cursive;
+	margin:0;
+	font-weight: bold;
+	border:5px #2FFF00 solid;
+	border-radius:30px;
+	height:100px;
+}
+
+#h1{
+	font-size:40px;
+}
+
+p{
+	color: red;
+	font-weight: bold;
+	font-size:25px;
+	font-family: 'Macondo', cursive;
+}
+
+label{
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-size: 20px;	
+}
+
+#input{
+	width:200px;
+}
+
+canvas{
+	margin-top:310px;
+}
+
+body{
+	background-image:url("background.jpg");
+	background-size: cover;
+	background-position:center;
+}
